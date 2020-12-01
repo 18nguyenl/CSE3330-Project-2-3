@@ -1,3 +1,6 @@
+<!-- Long Nguyen, 1001247753 -->
+<!-- Renato Amado, 1001355338 -->
+<!-- 11-30-2020 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
