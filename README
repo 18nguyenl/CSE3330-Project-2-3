@@ -1,0 +1,57 @@
+Covid-19 Database Front-end Website
+===============================
+
+## Before using...
+
+The name of the database is assumed to be `covid19`. 
+
+We are using a `XAMPP` setup where http://localhost/covid19/ is where the website
+will run.
+
+Everything should be stored in the `XAMPP` `htcdocs/covid19` directory.
+
+## Usage
+
+### Display
+
+http://localhost/covid19/display/display.php
+
+#### About
+
+This is where some Covid-19 will be displayed for a given county.
+
+--------
+
+### Insert
+
+http://localhost/covid19/insert/insert.php
+
+#### About
+
+Insert a new county.
+
+-------
+
+### Update
+
+http://localhost/covid19/update/update.php
+
+#### About
+
+Update the name of an existing county.
+
+Updating the name of a nonexistant county will be successful, but
+nothing will change in the database.
+
+--------
+
+### Delete
+
+http://localhost/covid19/delete/delete.php
+
+#### About
+
+Delete the name of an existing county.
+
+Deleting the name of a nonexistant county will be successful, but
+nothing will change in the database.
